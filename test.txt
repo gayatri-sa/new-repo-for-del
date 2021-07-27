@@ -1,3 +1,5 @@
 Hello World.
 Another change to the same file!
 A change after feature-b branch committed
+
+A new line that should conflict with feature-c
